@@ -4,7 +4,7 @@ Grid template
 <img src="https://i.imgur.com/eQc6aMx.png">
 
 Flex with space-between
-<img src="https://i.imgur.com/QpKHC5y.png">
+<img src="https://i.imgur.com/tOh9qzv.png">
 
 
 Flex layout 1-2-1

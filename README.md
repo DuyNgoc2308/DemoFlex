@@ -1,7 +1,4 @@
 # StandardTemplate
-Grid template
-
-<img src="https://i.imgur.com/eQc6aMx.png">
 
 Flex with space-between
 <img src="https://i.imgur.com/tOh9qzv.png">
